@@ -10,8 +10,8 @@ I'm a software developer living in Raleigh, North Carolina.
 
 Find me on:
 
-* [linkedin](http://linkedin.com/in/wintersp){:target="_blank"}
-* [github](http://github.com/pcwinters){:target="_blank"}
+* [linkedin](http://linkedin.com/in/wintersp)
+* [github](http://github.com/pcwinters)
 
 ## Recent Posts
 
